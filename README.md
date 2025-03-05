@@ -48,8 +48,8 @@ This File is developed be *Helma Arjmand*.
 I welcome feedbacks,questions and contributions.If you faced any question or problems,feel free to reach out to me per email.
 
 #### links to Exercises:
-+ [exercise1](exercise1.md)
-+ exercise2:
++ [exercise1](exercise1.md)This files describes Shiraz city and travel tips.
++ [exercise2](exercise2.md)This file desribes the git basic commands.
 + exercise3:
 + exercise4:
 + exercise5:
