@@ -47,6 +47,10 @@ Interested to contribute in this project? then follow these steps:
 This File is developed be *Helma Arjmand*.
 I welcome feedbacks,questions and contributions.If you faced any question or problems,feel free to reach out to me per email.
 
+[https://github.com/ArjmandHelma](https://github.com/ArjmandHelma)
+
+[https://www.fh-joanneum.at/](https://www.fh-joanneum.at/)
+
 #### links to Exercises:
 + [exercise1](exercise1.md)This files describes Shiraz city and travel tips.
 + [exercise2](exercise2.md)This file desribes the git basic commands.
