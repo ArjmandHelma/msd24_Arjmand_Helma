@@ -52,7 +52,7 @@ I welcome feedbacks,questions and contributions.If you faced any question or pro
 [https://www.fh-joanneum.at/](https://www.fh-joanneum.at/)
 
 #### links to Exercises:
-+ [exercise1](exercise1.md)This files describes Shiraz city and travel tips.
++ [exercise1](Exercise1.md)This files describes Shiraz city and travel tips.
 + [exercise2](exercise2.md)This file desribes the git basic commands.
 + exercise3:
 + exercise4:
