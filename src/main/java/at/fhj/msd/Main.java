@@ -1,10 +1,10 @@
 package at.fhj.msd;
 
-public class Main {
+public class Main{
     public static void main(String[] args) {
+        System.out.println("Helma Arjmand");
         
         Calculator calculator = new Calculator();
-
         double resultAdd = calculator.add(10, 5);
         double resultMinus = calculator.minus(10, 5);
         double resultDivide = calculator.divide(10, 5);

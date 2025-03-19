@@ -35,4 +35,7 @@ Here is the screenshot for project structure
 ## Successful Execution
 Here is the screenshot for Successful Execution
 ![Successful Execution](resources/images/ex3_2.png)
+## Programm output
+Here is the screenshot for Programm output
+![Program Output](resources/images/ex3_3.png)
 
