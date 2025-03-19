@@ -28,3 +28,8 @@ git push -u origin main
 6. Create exercise3.md File
 Documentation ot the steps taken in the project.
 Save and commit the file
+
+## Project structure
+Here is the screenshot for project structure 
+![Projectstructure](resources/images/ex3_1.png)
+
