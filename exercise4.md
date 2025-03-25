@@ -12,3 +12,4 @@
 
 ## Screenshot of Test Coverage:
 ![Test Coverage](resources/images/ex4_1.png)
+![fehlschlagenden Fehler](resources/images/ex4_2.png)
