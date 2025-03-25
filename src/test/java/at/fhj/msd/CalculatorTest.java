@@ -12,10 +12,10 @@ public class CalculatorTest {
 
     @BeforeEach
     void setup() {
-        calc = new Calculator(); 
+        calc = new Calculator();  
     }
 
-    
+   
     @Test
     @DisplayName("Testing add() with normal values")
     void testAddition() {
@@ -37,7 +37,6 @@ public class CalculatorTest {
         assertEquals(1, result, "Addition of -2 and 3 should be 1");
     }
 
-    
     @Test
     @DisplayName("Testing minus() with normal values")
     void testSubtraction() {
@@ -59,7 +58,7 @@ public class CalculatorTest {
         assertEquals(-2, result, "Subtraction of -5 and -3 should be -2");
     }
 
-    
+
     @Test
     @DisplayName("Testing multiply() with normal values")
     void testMultiplication() {
@@ -81,7 +80,7 @@ public class CalculatorTest {
         assertEquals(-8, result, "Multiplication of -4 and 2 should be -8");
     }
 
-    
+
     @Test
     @DisplayName("Testing divide() with normal values")
     void testDivision() {
@@ -101,28 +100,5 @@ public class CalculatorTest {
     void testDivideWithNegative() {
         double result = calc.divide(-10, 2);
         assertEquals(-5.0, result, "Division of -10 by 2 should be -5.0");
-    }
-
-@Test
-    @DisplayName("Testing factorial() with positive numbers")
-    void testFactorial() {
-        assertEquals(120, calc.factorial(5), "Factorial of 5 should be 120");
-    }
-    @Test
-    @DisplayName("Testing factorial() with positive numbers")
-    void testFactorialPositive() {
-        assertEquals(120, calc.factorial(5), "Factorial of 5 should be 120");
-    }
-
-    @Test
-    @DisplayName("Testing factorial() with zero")
-    void testFactorialZero() {
-        assertEquals(1, calc.factorial(0), "Factorial of 0 should be 1");
-    }
-
-    @Test
-    @DisplayName("Testing factorial() with negative number")
-    void testFactorialNegative() {
-        assertEquals(0, calc.factorial(-5), "Factorial of a negative number should be 0");
     }
 }

@@ -55,7 +55,7 @@ I welcome feedbacks,questions and contributions.If you faced any question or pro
 + [exercise1](Exercise1.md)This files describes Shiraz city and travel tips.
 + [exercise2](exercise2.md)This file desribes the git basic commands.
 + [exercise3](exercise3.md)This file is related to Maven project.
-+ exercise4:
++ [exercise4](exercise4.md)This file is related to test files.
 + exercise5:
 + exercise6:
 + exercise7:
