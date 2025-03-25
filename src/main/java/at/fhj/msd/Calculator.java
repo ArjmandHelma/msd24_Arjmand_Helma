@@ -20,8 +20,7 @@ public class Calculator {
         return number1 * number2;
     }
 
-   
     public int factorial(int n) {
-        return 0;
+        return (n <= 1) ? (n < 0 ? 0 : 1) : n * factorial(n - 1);
     }
 }
