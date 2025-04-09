@@ -57,6 +57,13 @@ I welcome feedbacks,questions and contributions.If you faced any question or pro
 + [exercise3](exercise3.md)This file is related to Maven project.
 + [exercise4](exercise4.md)This file is related to test files.
 + exercise5:
+                   ## Logging Konfiguration
+
+                   Um Logging zu aktivieren:
+
+                   1. Kopieren Sie die Datei log4j2.xml.template zu log4j2.xml:
+                    ```bash
+                   cp src/main/resources/log4j2.xml.template src/main/resources/log4j2.xmlV
 + exercise6:
 + exercise7:
 
