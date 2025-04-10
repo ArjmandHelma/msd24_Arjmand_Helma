@@ -66,7 +66,7 @@ Um Logging zu aktivieren:
    cp src/main/resources/log4j2.xml.template src/main/resources/log4j2.xmlV
 
    
-+ exercise6:
++ [exercise6](exercise6.md)This file is related to documentation.
 + exercise7:
 
 
