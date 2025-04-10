@@ -18,11 +18,11 @@
     <developer>
       <id>helma</id>
       <name>Helma Arjmand</name>
-      <email>helma.arjmand@edu.fh-joanneum.at</email>
+      <email>helma.arjmand@edu.fhjoanneum.at</email>
       <roles>
         <role>developer</role>
       </roles>
-      <url>https://github.com/ArjmandHelma/msd24_Arjmand_Helma</url>
+      <url>https://github.com/ArjmandHelma/msd24_Arjmand_Helma.git</url>
     </developer>
   </developers>
 
@@ -115,7 +115,7 @@
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-site-plugin</artifactId>
-        <version>4.0.0-M9</version>
+        <version>3.12.1</version>
       </plugin>
     </plugins>
   </build>
@@ -125,7 +125,7 @@
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-surefire-report-plugin</artifactId>
-        <version>3.0.0-M5</version>
+        <version>3.5.0-M5</version>
       </plugin>
     </plugins>
   </reporting>
